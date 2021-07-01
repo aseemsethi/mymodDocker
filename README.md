@@ -7,4 +7,4 @@ sudo docker image ls
 
 sudo docker container ls
 
-
+sudo docker run --rm go-aseem
